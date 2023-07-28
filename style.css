@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* start of the basic profile */
+.main_Container{
+    
+    height: 300;
+    /* background-color:#d25151; */
+    margin:30px  100px 0px 100px ;
+    position: relative;
+    border:2px solid #d25151;;
+    
+    cursor: pointer;
+    overflow: hidden;
+}
+
+span{
+    padding-top: 10px;
+}
+
+.basic{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.image{
+    text-align: center;
+    padding: 30px;
+}
+
+
+.image img{
+    border-radius: 50%;
+} 
+
+
+.email i{
+    padding-top:20px;
+    
+}
+
+.linkedin i{
+    padding-top: 20px;
+}
+
+.linkedin a{
+       text-decoration: none;
+       color: black;
+}
+.email{
+    display: flex;
+}
+
+
+.phone i{
+    padding-top:20px;
+}
+
+.git i{
+    padding-top:20px;
+}
+
+
+.phone{
+    display: flex;
+    /* padding-left: 10px; */
+}
+
+.git{
+    padding-left: 40px;
+}
+
+.git a{
+    text-decoration: none;
+    color: black;
+    /* padding: 5p; */
+}
+
+/* .main_Container:hover{
+    transition: transform 1s, opacity 1s;
+    transform: scale(1.04);
+    
+} */
+/* end of the basic profile */
+
+hr{
+ 
+    width: 1700px;
+    
+}
+
+.exp h3{
+    padding: 5px;
+}
+
+
+
+
+
