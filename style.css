@@ -98,6 +98,23 @@ hr{
 }
 
 
+@media(max-width: 700px)
+{
+    .main_Container{
+    
+        height: 300;
+        
+        margin:30px  100px 0px 100px ;
+        position: relative;
+        border:2px solid #d25151;;
+        cursor: pointer;
+        overflow: hidden;
+        width: 100%;
+    }  
+}
+
+
+
 
 
 
