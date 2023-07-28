@@ -5,17 +5,17 @@ body{
 }
 
 /* start of the basic profile */
-.main_Container{
+/* .main_Container{
     
     height: 300;
-    /* background-color:#d25151; */
+    background-color:#d25151;
     margin:30px  100px 0px 100px ;
     position: relative;
     border:2px solid #d25151;;
     
     cursor: pointer;
     overflow: hidden;
-}
+} */
 
 span{
     padding-top: 10px;
@@ -106,7 +106,7 @@ hr{
         font-size: 15px;
         box-sizing: border-box;
     }
-    .main_Container{
+    /* .main_Container{
     
         height: 300;
         margin:30px  100px 0px 100px ;
@@ -115,7 +115,7 @@ hr{
         cursor: pointer;
         overflow: hidden;
         width: 100%;
-    }  
+    }   */
 }
 
 
